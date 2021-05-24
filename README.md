@@ -7,4 +7,6 @@
 - Fun-fact: I'm Jiu-jitsu brown belt 
 
 ### Find me on other social medias (:
-[<img align="left" alt="LinkedIn/feerposser" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://www.linkedin.com/in/feerposser/]
+[<img align="left" alt="LinkedIn/feerposser" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/feerposser/
