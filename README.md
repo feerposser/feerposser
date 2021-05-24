@@ -17,7 +17,8 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
-[![feerposser GitHub stats](https://github-readme-stats.vercel.app/api?username=feerposser?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=feerposser&count_private=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feerposser&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
