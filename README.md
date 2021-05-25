@@ -1,6 +1,6 @@
 # Hey, everyone! I'm Fernando (:
 
-- :man_technologist: I'm working right now on a social impact startup called Mymba where allmost all projects are open source
+- :man_technologist: I'm working right now on a social impact startup called Mymba where almost all projects are open source
 - :man_teacher: I'm a computer science teacher in an graduation course and on a professionalizing course for high school students
 - :snake: I'm coding a lot with Python on this days
 - :singer: I like to share my knowledge on talks and speeches. Because of that I'm member of multiple hacker communities with focus on technology and entrepreneurship
