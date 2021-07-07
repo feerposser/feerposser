@@ -15,11 +15,11 @@
 
 ### Youtube Videos
 <!-- YOUTUBE:START -->
+- [Crie seu primeiro app Android - GDG Passo Fundo](https://www.youtube.com/watch?v=50GjlxUiyos)
 - [Dev na Gringa - GDG Passo Fundo](https://www.youtube.com/watch?v=YuzVKGxllQo)
 - [IoT para desenvolvedores - conectando o mundo real ao virtual do jeito mais simples](https://www.youtube.com/watch?v=xWn72WdBXYk)
 - [Vale a pena ser fullstack? [GDG Passo Fundo]](https://www.youtube.com/watch?v=RMxfkmZhNow)
 - [Chimatec 2020 - Trilha de Gestão da Inovação - Growth Hacking com Renan Cappi](https://www.youtube.com/watch?v=6y8uTjOn-Hg)
-- [Chimatec 2020 - GDG - Conectando o mundo real ao virtual usando React Native - Fernando Pinheiro](https://www.youtube.com/watch?v=xsUiKAJnTIU)
 <!-- YOUTUBE:END -->
 
 <br>
