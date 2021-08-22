@@ -15,11 +15,11 @@
 
 ### Youtube Videos
 <!-- YOUTUBE:START -->
+- [Feito é melhor que perfeito?](https://www.youtube.com/watch?v=dPrupkIamvk)
 - [O que é um profissional T](https://www.youtube.com/watch?v=QFKUp4w3IWI)
 - [Crie seu primeiro app Android - GDG Passo Fundo](https://www.youtube.com/watch?v=50GjlxUiyos)
 - [Dev na Gringa - GDG Passo Fundo](https://www.youtube.com/watch?v=YuzVKGxllQo)
 - [IoT para desenvolvedores - conectando o mundo real ao virtual do jeito mais simples](https://www.youtube.com/watch?v=xWn72WdBXYk)
-- [Vale a pena ser fullstack? [GDG Passo Fundo]](https://www.youtube.com/watch?v=RMxfkmZhNow)
 <!-- YOUTUBE:END -->
 
 <br>
