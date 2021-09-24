@@ -13,9 +13,13 @@
 
 <br><br>
 
-### Youtube Videos
+### Last Youtube videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+### Last Medium posts
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 <br>
 
@@ -23,7 +27,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feerposser&langs_count=7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [linkedin]: https://www.linkedin.com/in/feerposser/
 [youtube]: https://www.youtube.com/channel/UCg_CldUQX4zWq4k0hiu5fcg
