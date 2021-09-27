@@ -19,8 +19,6 @@
 
 ### Last Medium posts
 <!-- MEDIUM:START -->
-- [O que é um BLE beacon e por que ele pode revolucionar o seu serviço ou produto](https://feerposser.medium.com/o-que-%C3%A9-um-ble-beacon-e-por-que-ele-pode-revolucionar-o-seu-servi%C3%A7o-ou-produto-bed4345297d7?source=rss-72a3bb6a1bb0------2)
-- [O Profissional T](https://feerposser.medium.com/profissional-t-e-porqu%C3%AA-todo-dev-deveria-ser-um-principalmente-os-startupeiros-c64bec45c9ef?source=rss-72a3bb6a1bb0------2)
 <!-- MEDIUM:END -->
 
 <br>
