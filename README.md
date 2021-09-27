@@ -15,6 +15,11 @@
 
 ### Last Youtube videos
 <!-- YOUTUBE:START -->
+- [Cases de uso de BLE Beacons](https://www.youtube.com/watch?v=F0ayBzzjay4)
+- [O que é um BLE Beacon e como ele funciona](https://www.youtube.com/watch?v=XhAfu7y6qYE)
+- [Feito é melhor que perfeito?](https://www.youtube.com/watch?v=dPrupkIamvk)
+- [O que é um profissional T](https://www.youtube.com/watch?v=QFKUp4w3IWI)
+- [Crie seu primeiro app Android - GDG Passo Fundo](https://www.youtube.com/watch?v=50GjlxUiyos)
 <!-- YOUTUBE:END -->
 
 ### Last Medium posts
