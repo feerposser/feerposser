@@ -15,11 +15,11 @@
 
 ### Last Youtube videos
 <!-- YOUTUBE:START -->
+- [O que são BLE Beacons e como funcionam](https://www.youtube.com/watch?v=8ie971v3mhE)
 - [Aproximação e triangulação com BLE beacons](https://www.youtube.com/watch?v=7MUWFsMwhNo)
 - [GDG - Let&#39;s Play - Possibilidades de programação de jogos](https://www.youtube.com/watch?v=oT-4we1FMPI)
 - [iBeacon vs. Eddystone](https://www.youtube.com/watch?v=QQTfV-MrO14)
 - [Cases de uso de BLE Beacons](https://www.youtube.com/watch?v=F0ayBzzjay4)
-- [O que é um BLE Beacon e como ele funciona](https://www.youtube.com/watch?v=XhAfu7y6qYE)
 <!-- YOUTUBE:END -->
 
 ### Last Medium posts
