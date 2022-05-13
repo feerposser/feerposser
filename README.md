@@ -16,10 +16,18 @@
 
 ### Last Youtube videos
 <!-- YOUTUBE:START -->
+- [O que são BLE Beacons e como funcionam](https://www.youtube.com/watch?v=8ie971v3mhE)
+- [Aproximação e triangulação com BLE beacons](https://www.youtube.com/watch?v=7MUWFsMwhNo)
+- [GDG - Let&#39;s Play - Possibilidades de programação de jogos](https://www.youtube.com/watch?v=oT-4we1FMPI)
+- [iBeacon vs. Eddystone](https://www.youtube.com/watch?v=QQTfV-MrO14)
+- [Cases de uso de BLE Beacons](https://www.youtube.com/watch?v=F0ayBzzjay4)
 <!-- YOUTUBE:END -->
 
 ### Last Medium posts
 <!-- MEDIUM:START -->
+- [iBeacon vs. Eddystone](https://feerposser.medium.com/ibeacon-vs-eddystone-74388528af75?source=rss-72a3bb6a1bb0------2)
+- [O que é um BLE beacon e por que ele pode revolucionar o seu serviço ou produto](https://feerposser.medium.com/o-que-%C3%A9-um-ble-beacon-e-por-que-ele-pode-revolucionar-o-seu-servi%C3%A7o-ou-produto-bed4345297d7?source=rss-72a3bb6a1bb0------2)
+- [O Profissional T](https://feerposser.medium.com/profissional-t-e-porqu%C3%AA-todo-dev-deveria-ser-um-principalmente-os-startupeiros-c64bec45c9ef?source=rss-72a3bb6a1bb0------2)
 <!-- MEDIUM:END -->
 
 <br>
