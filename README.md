@@ -3,6 +3,7 @@
 - :man_technologist: I'm working right now on a social impact startup called Mymba where almost all projects are open source
 - :man_teacher: I'm a computer science teacher in an graduation course and on a professionalizing course for high school students
 - :snake: I'm coding a lot with Python on this days
+- :joystick: I'm also learning game development, so you'll see several Unity projects in my latest repos (:
 - :singer: I like to share my knowledge on talks and speeches. Because of that I'm member of multiple hacker communities with focus on technology and entrepreneurship
 - :men_wrestling: Fun-fact: I'm Jiu-jitsu brown belt 
 
