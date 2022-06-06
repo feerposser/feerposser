@@ -5,7 +5,7 @@
 - :snake: I'm coding a lot with Python on this days
 - :joystick: I'm also learning game development, so you'll see several Unity projects in my latest repos (:
 - :singer: I like to share my knowledge on talks and speeches. Because of that I'm member of multiple hacker communities with focus on technology and entrepreneurship
-- :men_wrestling: Fun-fact: I'm Jiu-jitsu brown belt 
+- :men_wrestling: Fun-fact: I'm Jiu-jitsu black belt 
 
 ## Find me on other social medias (:
 [<img align="left" alt="LinkedIn/feerposser" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
