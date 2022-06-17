@@ -16,11 +16,11 @@
 
 ### Last Youtube videos
 <!-- YOUTUBE:START -->
+- [O que influencia o consumo de energia de um BLE beacon](https://www.youtube.com/watch?v=E2GeUo3CAgk)
 - [Mini Curso beneficente - Introdução a Programação com Robótica](https://www.youtube.com/watch?v=CbUC-aCUes0)
 - [A parte mais difícil de lidar com BLE beacons](https://www.youtube.com/watch?v=eK-ka1G_-08)
 - [O que são BLE Beacons e como funcionam](https://www.youtube.com/watch?v=8ie971v3mhE)
 - [Aproximação e triangulação com BLE beacons](https://www.youtube.com/watch?v=7MUWFsMwhNo)
-- [GDG - Let&#39;s Play - Possibilidades de programação de jogos](https://www.youtube.com/watch?v=oT-4we1FMPI)
 <!-- YOUTUBE:END -->
 
 ### Last Medium posts
