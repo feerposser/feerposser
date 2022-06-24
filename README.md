@@ -10,7 +10,7 @@
 - :snake: I'm coding a lot with Python on this days
 - :joystick: I'm also learning game development, so you'll see several Unity projects in my latest repos (:
 - :singer: I like to share my knowledge on talks and speeches. Because of that I'm member of multiple hacker communities with focus on technology and entrepreneurship
-- :men_wrestling: Fun-fact: I'm Jiu-jitsu brown belt 
+- :men_wrestling: Fun-fact: I'm Jiu-jitsu black belt 
 
 ## Find me on other social medias (:
 [<img align="left" alt="LinkedIn/feerposser" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -21,11 +21,11 @@
 
 ### Last Youtube videos
 <!-- YOUTUBE:START -->
+- [O que influencia o consumo de energia de um BLE beacon](https://www.youtube.com/watch?v=E2GeUo3CAgk)
+- [Mini Curso beneficente - Introdução a Programação com Robótica](https://www.youtube.com/watch?v=CbUC-aCUes0)
+- [A parte mais difícil de lidar com BLE beacons](https://www.youtube.com/watch?v=eK-ka1G_-08)
 - [O que são BLE Beacons e como funcionam](https://www.youtube.com/watch?v=8ie971v3mhE)
 - [Aproximação e triangulação com BLE beacons](https://www.youtube.com/watch?v=7MUWFsMwhNo)
-- [GDG - Let&#39;s Play - Possibilidades de programação de jogos](https://www.youtube.com/watch?v=oT-4we1FMPI)
-- [iBeacon vs. Eddystone](https://www.youtube.com/watch?v=QQTfV-MrO14)
-- [Cases de uso de BLE Beacons](https://www.youtube.com/watch?v=F0ayBzzjay4)
 <!-- YOUTUBE:END -->
 
 ### Last Medium posts
