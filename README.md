@@ -1,4 +1,9 @@
-# Hey, everyone! I'm Fernando (:
+<div align="center">
+
+# <Hey, everyone! I'm Fernando :v: />
+
+</div>
+
 
 - :man_technologist: I'm working right now on a social impact startup called Mymba where almost all projects are open source
 - :man_teacher: I'm a computer science teacher in an graduation course and on a professionalizing course for high school students
