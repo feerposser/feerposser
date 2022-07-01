@@ -6,7 +6,7 @@
 
 </div>
 
-- I'm working right now on a social impact startup called Mymba where almost all projects are open source
+- I'm working right now on a social impact startup called <a href="https://www.instagram.com/mymba.io/" target="_BLANK">Mymba</a> where almost all projects are open source
 - I'm a computer science teacher in an graduation course :man_teacher: and mentor of a professionalizing course for high school students
 - I'm coding a lot with Python :snake: on this days
 - I like to share my knowledge on talks and speeches :singer: Because of that I'm member of multiple hacker communities with focus on technology and entrepreneurship
@@ -22,6 +22,10 @@
 <a href="http://instagram.com/feerposser"><img src="https://img.shields.io/badge/instagram-833AB4?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
+
+<br>
+
+<hr>
 
 <br>
 
@@ -42,7 +46,28 @@
 <!-- MEDIUM:END -->
 
 <br>
+
 <hr>
+
+<br>
+
+<div align="center">
+
+## What am I learning right now
+
+<div>
+    <p>:joystick: game development with Unity 2D</p>
+    <p>:books: I just pass thought some Unity Learn contents and start to recreate <a href="https://github.com/feerposser/megamanx-clone" target="_BLANK">Megaman X</a> all from skratch.
+    <p>I'm working on <a href="https://github.com/feerposser/unity-2d-platform-movement" target="_BLANK">this lib</a> for a complete 2D movement, including Megaman X recreation project</p>
+</div>
+
+</div>
+
+<br>
+
+<hr>
+
+<br>
 
 <div align="center">
 
