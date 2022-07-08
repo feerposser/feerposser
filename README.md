@@ -58,7 +58,7 @@
 <div>
     <p>:joystick: game development with Unity 2D</p>
     <p>:books: I just pass thought some Unity Learn contents and start to recreate <a href="https://github.com/feerposser/megamanx-clone" target="_BLANK">Megaman X</a> all from skratch.
-    <p>I'm working on <a href="https://github.com/feerposser/unity-2d-platform-movement" target="_BLANK">this lib</a> for a complete 2D movement, including Megaman X recreation project</p>
+    <p>I'm working on <a href="https://github.com/feerposser/unity-2d-platform-movement" target="_BLANK">this lib</a> for a complete 2D movement, including Mega Man X project</p>
 </div>
 
 </div>
