@@ -4,6 +4,8 @@
 
 <p>I'm here to have fun, discover the universe secrets and share it</p>
 
+<img width="100%" src="https://raw.githubusercontent.com/feerposser/feerposser/master/assets/img/1.png" />
+
 </div>
 
 - I'm working right now on a social impact startup called <a href="https://www.instagram.com/mymba.io/" target="_BLANK">Mymba</a> where almost all projects are open source
