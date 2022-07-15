@@ -8,6 +8,8 @@
 
 </div>
 
+<br>
+
 - I'm working right now on a social impact startup called <a href="https://www.instagram.com/mymba.io/" target="_BLANK">Mymba</a> where almost all projects are open source
 - I'm a computer science teacher in an graduation course :man_teacher: and mentor of a professionalizing course for high school students
 - I'm coding a lot with Python :snake: on this days
