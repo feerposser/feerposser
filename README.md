@@ -57,7 +57,7 @@
 
 <div align="center">
 
-## What am I learning right now
+## What am I learning right now?
 
 <div>
     <p>:joystick: game development with Unity 2D</p>
