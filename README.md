@@ -50,7 +50,7 @@
 - [O Profissional T](https://feerposser.medium.com/profissional-t-e-porqu%C3%AA-todo-dev-deveria-ser-um-principalmente-os-startupeiros-c64bec45c9ef?source=rss-72a3bb6a1bb0------2)
 <!-- MEDIUM:END -->
 
-## Last LinkedIn posts (pt-br)
+## últimos artigos no LinkedIn (pt-br)
  - [O que podemos aprender com o "cancelamento" do GitHub?](https://www.linkedin.com/pulse/o-que-podemos-aprender-com-cancelamento-do-github-posser-pinheiro/)
  - [BLE beacons na prática: iBeacon vs. Eddystone](https://www.linkedin.com/pulse/ble-beacons-na-pr%C3%A1tica-ibeacon-vs-eddystone-fernando-posser-pinheiro/)
  - [O que é um BLE Beacon e por que ele pode modernizar o seu serviço ou produto](https://www.linkedin.com/pulse/o-que-%C3%A9-um-ble-beacon-e-por-ele-pode-modernizar-seu-posser-pinheiro/)
