@@ -2,7 +2,7 @@
 
 # <Hey, everyone! :v: />
 
-<p>I'm here to have fun, discover the universe secrets and share it</p>
+<p>I'm here to have fun, discover the secrets of the universe and share it</p>
 
 <img width="100%" src="https://raw.githubusercontent.com/feerposser/feerposser/master/assets/img/1.png" />
 
@@ -10,11 +10,11 @@
 
 <br>
 
-- I'm working right now on a social impact startup called <a href="https://www.instagram.com/mymba.io/" target="_BLANK">Mymba</a> where almost all projects are open source
-- I'm a computer science teacher in an graduation course :man_teacher: and mentor of a professionalizing course for high school students
-- I'm coding a lot with Python :snake: on this days
-- I like to share my knowledge on talks and speeches :singer: Because of that I'm member of multiple hacker communities with focus on technology and entrepreneurship
-- Fun-fact: I'm Jiu-jitsu black belt 
+- I'm working right now on a social impact startup called <a href="https://www.instagram.com/mymba.io/" target="_BLANK">Mymba</a>
+- I'm also a computer science teacher in an graduation course :man_teacher: and mentor on a edtech for high school students
+- I'm coding a lot with Python :snake: and C# on this days
+- I like to share my knowledge on talks and speeches :singer: Because of that, I'm member of multiple hacker communities with focus in technology and entrepreneurship
+- Fun-fact: I'm Jiu-jitsu black belt
 
 
 <div align="center">
@@ -70,7 +70,7 @@
 <div>
     <p>:joystick: game development with Unity 2D</p>
     <p>:books: I just pass thought some Unity Learn contents and start to recreate <a href="https://github.com/feerposser/megamanx-clone" target="_BLANK">Megaman X</a> all from skratch.
-    <p>I'm working on <a href="https://github.com/feerposser/unity-2d-platform-movement" target="_BLANK">this lib</a> for a complete 2D movement, including Mega Man X project</p>
+    <p>Sometimes I'm working on <a href="https://github.com/feerposser/unity-2d-platform-movement" target="_BLANK">this lib</a> for a complete 2D movement</p>
 </div>
 
 </div>
