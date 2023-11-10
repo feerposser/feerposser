@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [Criatividade no game dev](https://www.youtube.com/watch?v=jcOW_Q35OoA)
 - [Profissionalização do game dev #shorts](https://www.youtube.com/watch?v=07V3b8cBCYQ)
 - [A busca por artistas e ilustradores para jogos](https://www.youtube.com/watch?v=eyWVrYU-2VE)
 - [Migrando de web dev para game dev](https://www.youtube.com/watch?v=zXwU1fn8JRw)
 - [Bugs, bugs para todos os lados #shorts #madewithunity](https://www.youtube.com/watch?v=0pUYruyYXLo)
-- [Primeiro inimigo do jogo #shorts #makewithunity](https://www.youtube.com/watch?v=dY-bldJCoBI)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
