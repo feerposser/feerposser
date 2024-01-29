@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [emprego de game dev #shorts #short #gamedev #emprego #freelancing](https://www.youtube.com/watch?v=90rHm7kkQJk)
 - [Balanceamento de personagens, gameplay e mundo do jogo](https://www.youtube.com/watch?v=jpK0WNh-fkY)
 - [Você consegue falar red dead redemption? #gamedev #games #devblog #short #shorts  #indiegame](https://www.youtube.com/watch?v=-3ZlLM5Fxrc)
 - [Como criar a ideia de um jogo - Devlog 1 Killing Time](https://www.youtube.com/watch?v=affX5s9kBFg)
 - [Criatividade no game dev](https://www.youtube.com/watch?v=jcOW_Q35OoA)
-- [Profissionalização do game dev #shorts](https://www.youtube.com/watch?v=07V3b8cBCYQ)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
