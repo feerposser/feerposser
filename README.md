@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
-- [Tudo o que você precisa saber sobre o marco dos games](https://www.youtube.com/watch?v=tdURx_BXwQY)
-- [Meu maior erro no desenvolvimento de um jogo até agora](https://www.youtube.com/watch?v=qSVTy2qVwwY)
-- [Consiga um emprego como game dev](https://www.youtube.com/watch?v=tjb5E5zWVK4)
+- [Tudo o que você precisa saber sobre o marco dos games | Fernando Posser Pinheiro](https://www.youtube.com/watch?v=tdURx_BXwQY)
+- [Meu maior erro no desenvolvimento de um jogo até agora | Fernando Posser Pinheiro](https://www.youtube.com/watch?v=qSVTy2qVwwY)
+- [Consiga um emprego como game dev | Fernando Posser Pinheiro](https://www.youtube.com/watch?v=tjb5E5zWVK4)
 - [emprego de game dev #shorts #short #gamedev #emprego #freelancing](https://www.youtube.com/watch?v=90rHm7kkQJk)
-- [Balanceamento de personagens, gameplay e mundo do jogo](https://www.youtube.com/watch?v=jpK0WNh-fkY)
+- [Balanceamento de personagens, gameplay e mundo do jogo | Fernando Posser Pinheiro](https://www.youtube.com/watch?v=jpK0WNh-fkY)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
