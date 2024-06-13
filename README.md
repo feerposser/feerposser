@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [Como planejei e desenvolvi meu próprio jogo #shorts #madewithunity #desenvolvimentodejogos](https://www.youtube.com/watch?v=I6LG4ip69Ug)
 - [O NPC burocrata do meu jogo #shorts  #madewithunity #gamedev #devlog](https://www.youtube.com/watch?v=fnEahxCpg-U)
 - [web dev vs. game dev #shorts  #desenvolvimentodejogos #madewithunity](https://www.youtube.com/watch?v=rfgVWWSWK30)
 - [Como criar um personagem cativante como Kratos #shorts #gamedev #madewithunity](https://www.youtube.com/watch?v=hnyHuypH1pk)
 - [Criando um Sistema de Movimentação Inspirado em Mega Man X #shorts #madewithunity #gamedev](https://www.youtube.com/watch?v=rv-W4Xz6IMI)
-- [Tudo o que você precisa saber sobre o marco dos games | Fernando Posser Pinheiro](https://www.youtube.com/watch?v=tdURx_BXwQY)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
