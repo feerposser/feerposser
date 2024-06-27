@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [Viajando pelo tempo com o Killing Time #shorts  #gamedev #madewithunity #curiosidades #indiegames](https://www.youtube.com/watch?v=bVj7INNJc00)
 - [Desenvolvimento web e de games: o que eles têm em comum? | Fernando Posser Pinheiro](https://www.youtube.com/watch?v=ECrDUqYxSaw)
 - [Como planejei e desenvolvi meu próprio jogo #shorts #madewithunity #desenvolvimentodejogos](https://www.youtube.com/watch?v=I6LG4ip69Ug)
 - [O NPC burocrata do meu jogo #shorts  #madewithunity #gamedev #devlog](https://www.youtube.com/watch?v=fnEahxCpg-U)
 - [web dev vs. game dev #shorts  #desenvolvimentodejogos #madewithunity](https://www.youtube.com/watch?v=rfgVWWSWK30)
-- [Como criar um personagem cativante como Kratos #shorts #gamedev #madewithunity](https://www.youtube.com/watch?v=hnyHuypH1pk)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
