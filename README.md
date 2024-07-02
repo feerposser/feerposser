@@ -44,11 +44,11 @@
 
 ## Last Medium posts (en)
 <!-- MEDIUM:START -->
+- [Aproximação e triangulação com BLE beacons](https://feerposser.medium.com/aproxima%C3%A7%C3%A3o-e-triangula%C3%A7%C3%A3o-com-ble-beacons-9e9224189507?source=rss-72a3bb6a1bb0------2)
 - [Full stack em IoT](https://feerposser.medium.com/full-stack-em-iot-98d9c9455c3a?source=rss-72a3bb6a1bb0------2)
 - [O que influencia o consumo de energia de um BLE beacon](https://feerposser.medium.com/o-que-influencia-o-consumo-de-energia-de-um-ble-beacon-2fcbd63fd677?source=rss-72a3bb6a1bb0------2)
 - [A parte mais difícil de lidar com BLE beacons](https://feerposser.medium.com/a-parte-mais-dif%C3%ADcil-de-lidar-com-ble-beacons-ae231c3c17ff?source=rss-72a3bb6a1bb0------2)
 - [O que são BLE Beacons e como funcionam](https://feerposser.medium.com/o-que-s%C3%A3o-ble-beacons-e-como-funcionam-775ff46031bf?source=rss-72a3bb6a1bb0------2)
-- [iBeacon vs. Eddystone](https://feerposser.medium.com/ibeacon-vs-eddystone-d12532636553?source=rss-72a3bb6a1bb0------2)
 <!-- MEDIUM:END -->
 
 ## últimos artigos no LinkedIn (pt-br)
