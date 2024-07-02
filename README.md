@@ -44,11 +44,11 @@
 
 ## Last Medium posts (en)
 <!-- MEDIUM:START -->
-- [Basic Docker Network for developers](https://feerposser.medium.com/basic-docker-network-for-developers-e5fa1a665f32?source=rss-72a3bb6a1bb0------2)
-- [Docker and docker compose .env file tutorial](https://feerposser.medium.com/docker-and-docker-compose-env-file-tutorial-daefb5605e0e?source=rss-72a3bb6a1bb0------2)
-- [iBeacon vs. Eddystone](https://feerposser.medium.com/ibeacon-vs-eddystone-74388528af75?source=rss-72a3bb6a1bb0------2)
-- [O que é um BLE beacon e por que ele pode revolucionar o seu serviço ou produto](https://feerposser.medium.com/o-que-%C3%A9-um-ble-beacon-e-por-que-ele-pode-revolucionar-o-seu-servi%C3%A7o-ou-produto-bed4345297d7?source=rss-72a3bb6a1bb0------2)
-- [O Profissional T](https://feerposser.medium.com/profissional-t-e-porqu%C3%AA-todo-dev-deveria-ser-um-principalmente-os-startupeiros-c64bec45c9ef?source=rss-72a3bb6a1bb0------2)
+- [Full stack em IoT](https://feerposser.medium.com/full-stack-em-iot-98d9c9455c3a?source=rss-72a3bb6a1bb0------2)
+- [O que influencia o consumo de energia de um BLE beacon](https://feerposser.medium.com/o-que-influencia-o-consumo-de-energia-de-um-ble-beacon-2fcbd63fd677?source=rss-72a3bb6a1bb0------2)
+- [A parte mais difícil de lidar com BLE beacons](https://feerposser.medium.com/a-parte-mais-dif%C3%ADcil-de-lidar-com-ble-beacons-ae231c3c17ff?source=rss-72a3bb6a1bb0------2)
+- [O que são BLE Beacons e como funcionam](https://feerposser.medium.com/o-que-s%C3%A3o-ble-beacons-e-como-funcionam-775ff46031bf?source=rss-72a3bb6a1bb0------2)
+- [iBeacon vs. Eddystone](https://feerposser.medium.com/ibeacon-vs-eddystone-d12532636553?source=rss-72a3bb6a1bb0------2)
 <!-- MEDIUM:END -->
 
 ## últimos artigos no LinkedIn (pt-br)
