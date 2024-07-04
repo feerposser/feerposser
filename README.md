@@ -44,11 +44,11 @@
 
 ## Last Medium posts (en)
 <!-- MEDIUM:START -->
-- [Aproximação e triangulação com BLE beacons](https://feerposser.medium.com/aproxima%C3%A7%C3%A3o-e-triangula%C3%A7%C3%A3o-com-ble-beacons-9e9224189507?source=rss-72a3bb6a1bb0------2)
-- [Full stack em IoT](https://feerposser.medium.com/full-stack-em-iot-98d9c9455c3a?source=rss-72a3bb6a1bb0------2)
-- [O que influencia o consumo de energia de um BLE beacon](https://feerposser.medium.com/o-que-influencia-o-consumo-de-energia-de-um-ble-beacon-2fcbd63fd677?source=rss-72a3bb6a1bb0------2)
-- [A parte mais difícil de lidar com BLE beacons](https://feerposser.medium.com/a-parte-mais-dif%C3%ADcil-de-lidar-com-ble-beacons-ae231c3c17ff?source=rss-72a3bb6a1bb0------2)
-- [O que são BLE Beacons e como funcionam](https://feerposser.medium.com/o-que-s%C3%A3o-ble-beacons-e-como-funcionam-775ff46031bf?source=rss-72a3bb6a1bb0------2)
+- [Blockchain com Jeff Prestes](https://feerposser.medium.com/blockchain-com-jeff-prestes-e88d4c413c06?source=rss-72a3bb6a1bb0------2)
+- [JetPack um requisito para a carreira Android](https://feerposser.medium.com/jetpack-um-requisito-para-a-carreira-android-b914f18f9a5b?source=rss-72a3bb6a1bb0------2)
+- [Cidades Inteligentes: sua cidade está preparada?](https://feerposser.medium.com/cidades-inteligentes-sua-cidade-est%C3%A1-preparada-8d9b7b6b2c23?source=rss-72a3bb6a1bb0------2)
+- [IoT: LPWAN LoRa](https://feerposser.medium.com/iot-lpwan-lora-5ff511e76e57?source=rss-72a3bb6a1bb0------2)
+- [Cultura hacker e como ela pode te ajudar na vida pessoal e profissional](https://feerposser.medium.com/cultura-hacker-e-como-ela-pode-te-ajudar-na-vida-pessoal-e-profissional-2fbcccaf1580?source=rss-72a3bb6a1bb0------2)
 <!-- MEDIUM:END -->
 
 ## últimos artigos no LinkedIn (pt-br)
