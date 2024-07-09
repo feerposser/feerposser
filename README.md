@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [Esfera de Dyson no jogo de fazenda #shorts #gamedev](https://www.youtube.com/watch?v=06EP6oRiZYU)
 - [Como Celeste aborda conteúdos sensíveis de maneira genial #shorts #gamedev #indiegames](https://www.youtube.com/watch?v=3xT4eYy8jmI)
 - [Viajando pelo tempo com o Killing Time #shorts  #gamedev #madewithunity #curiosidades #indiegames](https://www.youtube.com/watch?v=bVj7INNJc00)
 - [Desenvolvimento web e de games: o que eles têm em comum? | Fernando Posser Pinheiro](https://www.youtube.com/watch?v=ECrDUqYxSaw)
 - [Como planejei e desenvolvi meu próprio jogo #shorts #madewithunity #desenvolvimentodejogos](https://www.youtube.com/watch?v=I6LG4ip69Ug)
-- [O NPC burocrata do meu jogo #shorts  #madewithunity #gamedev #devlog](https://www.youtube.com/watch?v=fnEahxCpg-U)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
