@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [Será que vale a pena ser game dev generalista? #gamedev #shorts | Fernando Posser Pinheiro](https://www.youtube.com/watch?v=Zj3fVmIMy-s)
 - [Gamedev e amor platônico #shorts #gamedev #indiegames](https://www.youtube.com/watch?v=7m2REHrHoPw)
 - [Erros Comuns no Desenvolvimento de Jogos #gamedev #shorts #madewithunity](https://www.youtube.com/watch?v=FVAHz9Z_Nlo)
 - [Esfera de Dyson no jogo de fazenda #shorts #gamedev](https://www.youtube.com/watch?v=06EP6oRiZYU)
 - [Como Celeste aborda conteúdos sensíveis de maneira genial #shorts #gamedev #indiegames](https://www.youtube.com/watch?v=3xT4eYy8jmI)
-- [Viajando pelo tempo com o Killing Time #shorts  #gamedev #madewithunity #curiosidades #indiegames](https://www.youtube.com/watch?v=bVj7INNJc00)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
