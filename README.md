@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [O Problema dos Três Corpos e o game dev &lpar;leia descrição&rpar; #shorts #gamedev #indiegamedev](https://www.youtube.com/watch?v=lo7gOtmf_8s)
 - [Como superar uma paixão platônica #shorts #gamedev #conselhoamoroso](https://www.youtube.com/watch?v=bmuJlMnpjvY)
 - [Será que vale a pena ser game dev generalista? #gamedev #shorts | Fernando Posser Pinheiro](https://www.youtube.com/watch?v=Zj3fVmIMy-s)
 - [Gamedev e amor platônico #shorts #gamedev #indiegames](https://www.youtube.com/watch?v=7m2REHrHoPw)
 - [Erros Comuns no Desenvolvimento de Jogos #gamedev #shorts #madewithunity](https://www.youtube.com/watch?v=FVAHz9Z_Nlo)
-- [Esfera de Dyson no jogo de fazenda #shorts #gamedev](https://www.youtube.com/watch?v=06EP6oRiZYU)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
