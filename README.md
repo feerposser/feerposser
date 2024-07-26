@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [Engines dentro da game engine | Flare e Corgi](https://www.youtube.com/watch?v=p0HRbKFxO4c)
 - [Experiências pessoais na criação de personagens de jogos](https://www.youtube.com/watch?v=7KP9OlHlnr8)
 - [Como é fazer um jogo sozinho](https://www.youtube.com/watch?v=2yTvsZT9LZM)
 - [O Problema dos Três Corpos e o game dev &lpar;leia descrição&rpar; #shorts #gamedev #indiegamedev](https://www.youtube.com/watch?v=lo7gOtmf_8s)
 - [Como superar uma paixão platônica #shorts #gamedev #conselhoamoroso](https://www.youtube.com/watch?v=bmuJlMnpjvY)
-- [Será que vale a pena ser game dev generalista? #gamedev #shorts | Fernando Posser Pinheiro](https://www.youtube.com/watch?v=Zj3fVmIMy-s)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
