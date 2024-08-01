@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [Fazer jogos pequenos e receber feedback #desenvolvimentodejogos #gamedev #indiegamedev #indiegames](https://www.youtube.com/watch?v=P6tG41o3VOc)
 - [Engines dentro da game engine | Flare e Corgi](https://www.youtube.com/watch?v=p0HRbKFxO4c)
 - [Experiências pessoais na criação de personagens de jogos](https://www.youtube.com/watch?v=7KP9OlHlnr8)
 - [Como é fazer um jogo sozinho](https://www.youtube.com/watch?v=2yTvsZT9LZM)
 - [O Problema dos Três Corpos e o game dev &lpar;leia descrição&rpar; #shorts #gamedev #indiegamedev](https://www.youtube.com/watch?v=lo7gOtmf_8s)
-- [Como superar uma paixão platônica #shorts #gamedev #conselhoamoroso](https://www.youtube.com/watch?v=bmuJlMnpjvY)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
