@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [Marco dos games  #gamedevbrasil  #desenvolvimentodejogos](https://www.youtube.com/watch?v=tbcK8RHHBcI)
 - [Lógica de programação nos jogos e na web](https://www.youtube.com/watch?v=Z2bTBYUg_Dg)
 - [Jogo de papel que encanta a todos](https://www.youtube.com/watch?v=9k5NwYv0X0k)
 - [Criando personagens pra jogos de videogame](https://www.youtube.com/watch?v=A_QGHzOZ11Y)
 - [Fazer jogos pequenos e receber feedback #desenvolvimentodejogos #gamedev #indiegamedev #indiegames](https://www.youtube.com/watch?v=P6tG41o3VOc)
-- [Engines dentro da game engine | Flare e Corgi](https://www.youtube.com/watch?v=p0HRbKFxO4c)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
