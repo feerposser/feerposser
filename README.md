@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [Arrependimentos que ninguém quer &lpar;e como evitá-los&rpar;](https://www.youtube.com/watch?v=ESJ-0GPfDPA)
 - [Quando você fica velho na profissão](https://www.youtube.com/watch?v=OSBzCCaPFgs)
 - [Jornada do herói e games #gamedev #indiegames #indiegamedev](https://www.youtube.com/watch?v=o-M8qexiaUU)
 - [Jogos e orientação a objetos #gamedevbrasil #indiegamedev #madewithunity](https://www.youtube.com/watch?v=F3IZHNtihZk)
 - [Game engines vs frameworks web](https://www.youtube.com/watch?v=OLFROTDcc1c)
-- [O triângulo da esquisitice - Level Up de Scott Rogers](https://www.youtube.com/watch?v=M1PMslyPhD8)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
