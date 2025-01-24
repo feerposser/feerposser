@@ -35,7 +35,7 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
-- [Os segredos do meu jogo](https://www.youtube.com/watch?v=c9rJGex1eF8)
+- [Criando um jogo de 3 fases com 1 fase](https://www.youtube.com/watch?v=c9rJGex1eF8)
 - [5 arrependimentos que ninguém quer &lpar;e como evitá-los&rpar;](https://www.youtube.com/watch?v=ESJ-0GPfDPA)
 - [Quando você fica velho na profissão](https://www.youtube.com/watch?v=OSBzCCaPFgs)
 - [Jornada do herói e games #gamedev #indiegames #indiegamedev](https://www.youtube.com/watch?v=o-M8qexiaUU)
