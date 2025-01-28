@@ -35,11 +35,11 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
+- [Persona no plano de negócio de desenvolvimento de jogos](https://www.youtube.com/watch?v=1yU2X7oS5nI)
 - [Criando um jogo de 3 fases com 1 fase](https://www.youtube.com/watch?v=c9rJGex1eF8)
 - [5 arrependimentos que ninguém quer &lpar;e como evitá-los&rpar;](https://www.youtube.com/watch?v=ESJ-0GPfDPA)
 - [Quando você fica velho na profissão](https://www.youtube.com/watch?v=OSBzCCaPFgs)
 - [Jornada do herói e games #gamedev #indiegames #indiegamedev](https://www.youtube.com/watch?v=o-M8qexiaUU)
-- [Jogos e orientação a objetos #gamedevbrasil #indiegamedev #madewithunity](https://www.youtube.com/watch?v=F3IZHNtihZk)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
