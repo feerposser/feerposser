@@ -35,7 +35,7 @@
 
 ## Last Youtube videos (pt-br)
 <!-- YOUTUBE:START -->
-- [Persona no plano de negócio de desenvolvimento de jogos](https://www.youtube.com/watch?v=1yU2X7oS5nI)
+- [Persona no plano de negócio de desenvolvimento de jogos](https://www.youtube.com/watch?v=EdfGxUKq2zw)
 - [Criando um jogo de 3 fases com 1 fase](https://www.youtube.com/watch?v=c9rJGex1eF8)
 - [5 arrependimentos que ninguém quer &lpar;e como evitá-los&rpar;](https://www.youtube.com/watch?v=ESJ-0GPfDPA)
 - [Quando você fica velho na profissão](https://www.youtube.com/watch?v=OSBzCCaPFgs)
