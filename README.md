@@ -38,8 +38,8 @@
 - [Persona no plano de negócio de desenvolvimento de jogos](https://www.youtube.com/watch?v=EdfGxUKq2zw)
 - [Criando um jogo de 3 fases com 1 fase](https://www.youtube.com/watch?v=c9rJGex1eF8)
 - [5 arrependimentos que ninguém quer &lpar;e como evitá-los&rpar;](https://www.youtube.com/watch?v=ESJ-0GPfDPA)
-- [Quando você fica velho na profissão](https://www.youtube.com/watch?v=OSBzCCaPFgs)
-- [Jornada do herói e games #gamedev #indiegames #indiegamedev](https://www.youtube.com/watch?v=o-M8qexiaUU)
+- [Quando você fica velho na profissão](https://www.youtube.com/shorts/OSBzCCaPFgs)
+- [Jornada do herói e games #gamedev #indiegames #indiegamedev](https://www.youtube.com/shorts/o-M8qexiaUU)
 <!-- YOUTUBE:END -->
 
 ## Last Medium posts (en)
